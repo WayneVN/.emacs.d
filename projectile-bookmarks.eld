@@ -1,0 +1,1 @@
+("~/remotex-bff/" "~/remotex/" "~/frontend/" "~/Remotex-react/" "~/remotex-react/" "~/.tmux/" "/home/wwwroot/default/" "~/Helium-lite/")

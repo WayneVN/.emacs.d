@@ -1,0 +1,17 @@
+
+;; ----- smex-history -----
+(
+ load-theme
+ load-file
+ ag
+ cd
+ ri
+ 5x5
+ arp
+)
+
+;; ----- smex-data -----
+(
+ (load-file . 1)
+ (load-theme . 2)
+)

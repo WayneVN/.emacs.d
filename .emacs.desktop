@@ -1,0 +1,552 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Fri May  5 18:42:53 2017
+;; Desktop file format version 208
+;; Emacs version 25.1.2
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (22796 22317 419172 0) (desktop . "208") "vn@vn-VirtualBox" nil nil ((((font-backend xft x) (font . "-WQYF-‘ÎÄ‘Èª‘æä‘µÈ‘¿í‘Î¢‘Ã×‘ºÚ-normal-normal-normal-*-17-*-*-*-*-0-iso10646-1") (font-parameter) (border-width . 0) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#ABB2BF") (background-color . "#282C34") (mouse-color . "black") (border-color . "#eee8d5") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (scroll-bar-foreground) (scroll-bar-background) (menu-bar-lines . 1) (tool-bar-lines . 0) (title) (wait-for-wm . t) (tool-bar-position . top) (icon-type . t) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (alpha) (fullscreen . maximized) (display-type . color) (background-mode . dark) (cursor-color . "#AEB9F5") (sticky) (environment) (frameset--id . "39A9-707C-901F-EA39") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . ":0") (explicit-name) (visibility . t) (height . 49) (width . 175) (left . 65) (top . 24)) ((min-height . 4) (min-width . 10) (min-height-ignore . 3) (min-width-ignore . 6) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 80) (min-pixel-width . 100) (min-pixel-height-ignore . 60) (min-pixel-width-ignore . 60) (min-pixel-height-safe . 20) (min-pixel-width-safe . 20)) leaf (pixel-width . 1767) (pixel-height . 969) (total-width . 177) (total-height . 48) (normal-height . 1.0) (normal-width . 1.0) (buffer "webpack.dev.config.js" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 2) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 339) (start . 1))))])
+(setq comint-input-ring nil)
+(setq compile-history nil)
+(setq desktop-missing-file-warning nil)
+(setq dired-regexp-history nil)
+(setq extended-command-history '("emmet-mode" "html-mode" "load-theme" "find-grep" "js-jsx-mode" "web-mode" "web-beautify-js" "revert-buffer" "ibuffer" "font-lock-mode" "jsx-mode" "js-auto-beautify-mode" "package-list-packages" "js2-mode" "js2-jsx-mode" "yas-global-mode" "css-mode" "scss-mode" "sass-mode" "replace-string"))
+(setq face-name-history nil)
+(setq file-name-history '("~/remotex-bff/build/webpack.dev.config.js" "~/remotex-bff/build/webpack.base.config.js" "~/remotex-bff/index.js" "~/remotex-bff/app.js" "~/remotex-bff/.idea/jsLibraryMappings.xml" "~/remotex-bff/app/view/home/index.nj" "~/remotex-bff/app/router.js" "~/remotex-bff/build/util.js" "~/remotex/react-ui/package.json" "~/remotex-bff/package.json" "~/remotex-bff/build/bs.config.js" "~/remotex-bff/app/extend/helper.local.js" "~/remotex-bff/app/extend/helper.js" "~/remotex-bff/app/public/home/index.less" "~/remotex/react-ui/node_modules/restore-cursor/index.js" "~/remotex/react-ui/node_modules/restore-cursor/index.js" "~/remotex/react-ui/src/app.js" "~/remotex/react-ui/src/routes/index.js" "~/remotex/react-ui/src/components/Item/index.js" "~/Remotex-react/src/components/DevTools.js" "~/Remotex-react/src/components/Msg/MsgDetail.js" "~/Remotex-react/src/services/msgService.js" "~/Remotex-react/src/services/xhr/jquery.js" "~/Remotex-react/src/services/xhr/index.js" "~/Remotex-react/src/components/Welcome.js" "~/Remotex-react/src/components/Todo/index.js" "~/Remotex-react/package.json" "~/Remotex-react/build/dev.js" "~/Remotex-react/build/webpack.dev.conf.js" "~/Remotex-react/build/webpack.base.conf.js" "~/Remotex-react/src/assets/scss/common/head.scss" "~/Remotex-react/src/assets/scss/common/foot.scss" "~/Remotex-react/src/routes/msg.js" "~/Remotex-react/src/routes/todo.js" "~/Remotex-react/src/views/todo.js" "~/Remotex-react/src/routes/index.js" "~/Remotex-react/src/views/index.js" "~/Remotex-react/src/assets/scss/variables.scss" "~/Remotex-react/src/assets/scss/common/pagination.scss" "~/Remotex-react/src/components/Footer/index.js" "~/Remotex-react/src/components/Pagination.js" "~/Remotex-react/README.md" "~/Remotex-react/src/components/Todo/TodoInput.js" "~/remotex/react-ui/src/components/index/index.js" "~/Remotex-react/src/components/Item/index.js" "~/remotex/react-ui/src/index.html" "~/remotex/react-ui/build/webpack.base.conf.js" "~/remotex/react-ui/build/webpack.dev.conf.js" "~/remotex/react-ui/build/dev.js" "~/remotex/react-ui/.eslintrc" "~/Remotex-react/src/components/Item/index.js" "/home/vn/.emacs.d/custom.el" "~/.emacs.d/custom.el" "~/.emacs.d/elpa/jsx-mode-20130908.1024/jsx-mode-autoloads.el" "~/.emacs.d/elpa/js-auto-beautify-20161030.2209/js-auto-beautify-autoloads.el" "~/Remotex-react/src/components/DevTools.js" "~/Remotex-react/src/components/Msg/MsgDetail.js" "~/Remotex-react/src/services/msgService.js" "~/Remotex-react/src/services/xhr/jquery.js" "~/Remotex-react/src/services/xhr/index.js" "~/Remotex-react/src/components/Welcome.js" "~/Remotex-react/src/components/Todo/index.js" "~/Remotex-react/package.json" "~/Remotex-react/build/dev.js" "~/Remotex-react/build/webpack.dev.conf.js" "~/Remotex-react/build/webpack.base.conf.js" "~/Remotex-react/src/assets/scss/common/head.scss" "~/Remotex-react/src/assets/scss/common/foot.scss" "~/Remotex-react/src/routes/msg.js" "~/Remotex-react/src/routes/todo.js" "~/Remotex-react/src/views/todo.js" "~/Remotex-react/src/routes/index.js" "~/Remotex-react/src/views/index.js" "~/Remotex-react/src/assets/scss/variables.scss" "~/Remotex-react/src/assets/scss/common/pagination.scss" "~/Remotex-react/src/components/Footer/index.js" "~/Remotex-react/src/components/Pagination.js" "~/Remotex-react/README.md" "~/Remotex-react/src/components/Todo/TodoInput.js" "~/remotex/react-ui/src/components/index/index.js" "~/remotex/react-ui/src/assets/scss/page/item.scss" "~/remotex/react-ui/src/views/index.js" "~/remotex/react-ui/src/services/xhr/config.js" "~/remotex/react-ui/src/components/index/index.js" "~/Remotex-react/src/components/Todo/TodoInput.js" "~/Remotex-react/src/components/DevTools.js" "~/Remotex-react/src/components/Msg/MsgDetail.js" "~/Remotex-react/src/services/msgService.js" "~/Remotex-react/src/services/xhr/jquery.js" "~/Remotex-react/src/services/xhr/index.js" "~/Remotex-react/src/components/Welcome.js" "~/Remotex-react/src/components/Todo/index.js" "~/Remotex-react/package.json" "~/Remotex-react/build/dev.js" "~/Remotex-react/build/webpack.dev.conf.js" "~/Remotex-react/build/webpack.base.conf.js" "~/Remotex-react/src/assets/scss/common/head.scss" "~/Remotex-react/src/assets/scss/common/foot.scss" "~/Remotex-react/src/routes/msg.js" "~/Remotex-react/src/routes/todo.js"))
+(setq grep-find-history '("find ~/remotex/react-ui/src/ -type f -exec grep --color -nH -e boot {} +"))
+(setq grep-history nil)
+(setq ido-buffer-history nil)
+(setq ido-last-directory-list nil)
+(setq ido-work-directory-list nil)
+(setq ido-work-file-list nil)
+(setq ivy-history '("atom-one-dark" "react-ui/" "re" "atom-one-dark" "sanityinc-tomorrow-night" "atom-one-dark" "atom-dark" "atom-one-dark"))
+(setq minibuffer-history '("/home/vn/remotex-bff/build/" "/home/vn/remotex-bff/" "/home/vn/remotex-bff/app/view/home/" "/home/vn/remotex-bff/app/" "/home/vn/remotex-bff/build/util.js" "/home/vn/remotex/react-ui/" "/home/vn/remotex-bff/" "/home/vn/remotex-bff/build/" "/home/vn/remotex-bff/app/extend/" "/home/vn/remotex-bff/app/public/home/" "/home/vn/remotex-bff/app/view/home/" "/home/vn/remotex/react-ui/node_modules/restore-cursor/" "/home/vn/remotex/react-ui/src/" "/home/vn/remotex/react-ui/src/routes/" "/home/vn/remotex/react-ui/src/components/Item/" "/home/vn/remotex/react-ui/build/" "/home/vn/remotex/react-ui/" "11" "42" "43" "12" "/home/vn/Remotex-react/src/components/Item/" "/home/vn/.emacs.d/cu" "/home/vn/.emacs.d/custom.el" "/home/vn/remotex/react-ui/src/components/Item/" "/home/vn/remotex/react-ui/src/assets/scss/page/" "/home/vn/remotex/react-ui/src/views/" "/home/vn/remotex/react-ui/src/services/xhr/con" "/home/vn/remotex/react-ui/src/components/index/in" "/home/vn/remotex/react-ui/src/components/Item/" "/home/vn/Remotex-react/src/components/Item/" "/home/vn/Remotex-react/.git" "/home/vn/Remotex-react/" "/home/vn/Remotex-react/src/components/Footer/" "31" "13" "134" "33" "var" "/home/vn/Remotex-react/src/components/" "/home/vn/Remotex-react/src/views/" "/home/vn/Remotex-react/src/views/index.js" "/home/vn/Remotex-react/src/components/Navbar/" "/home/vn/Remotex-react/src/components/pagination.js" "/home/vn/Remotex-react/src/assets/scss/" "/home/vn/Remotex-react/src/assets/scss/common/pagination.scss" "/home/vn/Remotex-react/src/assets/scss/" "/home/vn/Remotex-react/src/views/" "/home/vn/Remotex-react/src/assets/scss/" "28"))
+(setq query-replace-history '("https://mirrors.tuna.tsinghua.edu.cn/ubuntu/" "http://cn.archive.ubuntu.com/ubuntu/" "https://mirrors.tuna.tsinghua.edu.cn/ubuntu/" "http://cn.archive.ubuntu.com/ubuntu"))
+(setq read-expression-history nil)
+(setq regexp-history nil)
+(setq regexp-search-ring nil)
+(setq register-alist '((48 . "tba")))
+(setq search-ring '("export nvm_dir=\"$home/.nvm\"\n[ -s \"$nvm_dir/nvm.sh\" ] && . \"$nvm_dir/nvm.sh\" # this loads nvm"))
+(setq shell-command-history nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/build/webpack.dev.config.js"
+  "webpack.dev.config.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  339
+  '(522 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (563 490 537 598 598))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/build/webpack.base.config.js"
+  "webpack.base.config.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  293
+  '(296 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (293))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app.js"
+  "app.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/.idea/jsLibraryMappings.xml"
+  "jsLibraryMappings.xml"
+  'nxml-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode flycheck-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  ".idea"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode diff-hl-dired-mode)
+  165
+  '(nil nil)
+  t
+  '("/home/vn/remotex-bff/.idea/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app/view/home/index.nj"
+  "index.nj"
+  'html-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode tagedit-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode emmet-mode)
+  1
+  '(913 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1796 2342 1809 2343 2343 2343 147 601 298 623 2343 2131 1327 1021 1364 1270))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app/router.js"
+  "router.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/build/util.js"
+  "util.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  156
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/package.json"
+  "package.json"
+  'json-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1336
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (1 1202))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/build/bs.config.js"
+  "bs.config.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1535
+  '(1535 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1163 1173 911 1025 1832 1535))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app/extend/helper.local.js"
+  "helper.local.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  67
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app/extend/helper.js"
+  "helper.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex-bff/app/public/home/index.less"
+  "index.less"
+  'less-css-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode skewer-css-mode skewer-less-mode)
+  721
+  '(808 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (808 1283 1283 1314 1310 1379 1358 1381 1304 1381 1612 83 721))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex/react-ui/src/components/Item/index.js"
+  "index.js"
+  'js-jsx-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode)
+  420
+  '(372 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (1131 1131 475 450 449 107 107 107 107 107 107 107 107 107 107 420))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex/react-ui/src/index.html"
+  "index.html"
+  'html-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode tagedit-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode mmm-mode)
+  557
+  '(490 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (574 573 574 510))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Item/index.js"
+  "index.js"
+  'js-jsx-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode yas-minor-mode)
+  1
+  '(1202 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (107 107 1202 1202 107 107 1202 883 998 998 998 1077 1049 739 626 598))))
+
+(desktop-create-buffer 208
+  "/home/vn/remotex/react-ui/src/components/index/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  607
+  '(513 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (513 513 471 607))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Todo/TodoInput.js"
+  "TodoInput.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/README.md"
+  "README.md"
+  'markdown-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode flycheck-mode yas-minor-mode)
+  269
+  '(193 nil)
+  nil
+  nil
+  '((tab-width . 4) (buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring (172 164 142 71 68 50 26 18 1 1 68))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Pagination.js"
+  "Pagination.js"
+  'js-jsx-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  281
+  '(273 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring (190 190 378 210 365 174 365 365 310 260))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Footer/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  386
+  '(319 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (312 269 233 386 372 334 386))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/assets/scss/common/pagination.scss"
+  "pagination.scss"
+  'css-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode yas-minor-mode skewer-css-mode)
+  680
+  '(622 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (640 697 697 697 691 699 252 699 697 699 699 699 698 697 699 680))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/assets/scss/variables.scss"
+  "variables.scss"
+  'scss-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode skewer-css-mode)
+  125
+  '(114 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix) (overwrite-mode))
+  '((mark-ring (114))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/views/index.js"
+  "index.js"
+  'js-jsx-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode yas-minor-mode)
+  143
+  '(320 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (321 310 144 134 117 117 117 107 107 107 134 66 66 267 254 241))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/routes/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  233
+  '(200 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (126 122 507 507 507 472 291 291 498))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/views/todo.js"
+  "todo.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  402
+  '(466 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/routes/todo.js"
+  "todo.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  244
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/routes/msg.js"
+  "msg.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/assets/scss/common/foot.scss"
+  "foot.scss"
+  'css-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode yas-minor-mode skewer-css-mode)
+  673
+  '(608 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (608 206 425 210 383 383 396 698 698 298 293 704 2 705 112 112))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/assets/scss/common/head.scss"
+  "head.scss"
+  'css-mode
+  '(eldoc-mode anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode rainbow-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode emmet-mode yas-minor-mode skewer-css-mode)
+  226
+  '(712 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring (378 378 577 244 472 278 454 454 236 236 74 63 736 235 244 226))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/build/webpack.base.conf.js"
+  "webpack.base.conf.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1210
+  '(1239 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix) (overwrite-mode))
+  '((mark-ring (1221 1216 1216 1169 867))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/build/webpack.dev.conf.js"
+  "webpack.dev.conf.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1245
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/build/dev.js"
+  "dev.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  675
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/package.json"
+  "package.json"
+  'json-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode inferior-js-keys-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  2224
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Todo/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  133
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Welcome.js"
+  "Welcome.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  332
+  '(63 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring (482))))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/services/xhr/index.js"
+  "index.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/services/xhr/jquery.js"
+  "jquery.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  275
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/services/msgService.js"
+  "msgService.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  577
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/Msg/MsgDetail.js"
+  "MsgDetail.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  1003
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "services"
+  'dired-mode
+  '(anzu-mode global-auto-revert-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode company-mode ivy-mode counsel-mode yas-minor-mode diff-hl-dired-mode)
+  171
+  '(nil nil)
+  t
+  '("/home/vn/Remotex-react/src/services/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "/home/vn/Remotex-react/src/components/DevTools.js"
+  "DevTools.js"
+  'web-mode
+  '(anzu-mode global-auto-revert-mode undo-tree-mode whole-line-or-region-mode hes-mode whitespace-cleanup-mode auto-compile-on-load-mode linum-mode immortal-scratch-mode projectile-mode guide-key-mode highlight-symbol-mode company-mode ivy-mode counsel-mode flycheck-mode goto-address-prog-mode paredit-everywhere-mode bug-reference-prog-mode diff-hl-mode rainbow-delimiters-mode indent-guide-mode yas-minor-mode)
+  797
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
